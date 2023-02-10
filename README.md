@@ -7,7 +7,6 @@ export default lucas = {
   from: 'Belo Horizonte, MG, Brazil',
   profession: 'Junior Developer',
   email: 'fclucascorrea@gmail.com',
-  bornAt: '1999-05-25',
   stack: [
     'Javascript',
     'React',
