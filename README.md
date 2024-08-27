@@ -5,7 +5,7 @@
 export default lucas = {
   name: 'Lucas Corrêa',
   from: 'Belo Horizonte, MG, Brazil',
-  profession: 'Full Stack Developer',
+  stack: 'Full Stack Developer',
   email: 'fclucascorrea@gmail.com',
   lovesGaming: true,
   hobbies: [
